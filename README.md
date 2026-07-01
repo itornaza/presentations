@@ -1,6 +1,6 @@
 # Presentations
 
-A collection of my technical presentations on cryptography relevant to Bitcoin
+A collection of my technical presentations on cryptographic protocols and algorithms
 
 ## Lattice-based Cryptography
 
